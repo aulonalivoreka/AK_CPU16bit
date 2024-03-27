@@ -1,6 +1,6 @@
 ## Project in Computer Architecture Course
 
-This repository contains a project that simulates a 16-bit single-cycle CPU using the Verilog hardware description language. For a comprehensive overview of the supported instructions and a detailed analysis of the CPU's components and their interactions, refer to the accompanying documents: [Detyra2-AKSD-2023.pdf](Detyra2-AKSD-2023.pdf) and [Raporti_Grupi10.docx]
+This repository contains a project that simulates a 16-bit single-cycle CPU using the Verilog hardware description language. For a comprehensive overview of the supported instructions and a detailed analysis of the CPU's components and their interactions, refer to the accompanying documents: [Detyra2-AKSD-2023.pdf](Detyra2-AKSD-2023.pdf) and [Raporti_Grupi10]
 
 
 ### Authors 
