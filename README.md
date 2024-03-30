@@ -9,4 +9,3 @@ This is a project that simulates a 16-bit single-cycle CPU using the Verilog har
 - [Artina Qorrolli](https://github.com/ArtinaQorrolli)
 - [Art Kelmendi](https://github.com/artkelmendi)
 - [Fatime Sadiku](https://github.com/fatimess)
-- [Blerton Ismaili](https://github.com/Blertonismailii)
